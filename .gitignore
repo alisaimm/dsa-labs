@@ -1,0 +1,42 @@
+# Compiled C/C++ artifacts (Windows and Linux)
+*.exe
+*.out
+*.a
+*.lib
+*.dll
+*.so
+*.dylib
+*.o
+*.obj
+*.gch
+*.pch
+*.pdb
+*.ilk
+
+# Build-system output
+build/
+Build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+Makefile
+
+# IDE and editor files
+.vs/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Code Runner temporary files
+tempCodeRunnerFile.cpp
+tempCodeRunnerFile.c
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
